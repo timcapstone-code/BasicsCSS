@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(81, 124, 130);
+}
+
+h1 {
+  color: #145ba3;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: Georgia, serif;
+}
+
+li {
+  color: rgba(192, 181, 34, 0.4);
+  font-family: Georgia, serif;
+}
+
+h4 {
+  color: #e74c3c;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
